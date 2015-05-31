@@ -4,8 +4,7 @@
 
 	var Quiz = React.createClass({
 		render: function() {
-			return (
-				<div>Test</div>;
+			return <div>Test</div>
 		}
 	});
 
